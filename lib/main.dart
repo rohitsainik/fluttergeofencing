@@ -1,11 +1,3 @@
-# geofence_example
-
-Demonstrates how to use the geofence plugin.
-
-## Getting Started
-```dart
-
-
 import 'dart:isolate';
 import 'dart:ui';
 
@@ -88,4 +80,3 @@ class _MyAppState extends State<MyApp> {
     );
   }
 }
-```
